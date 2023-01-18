@@ -33,8 +33,12 @@ input {
   /*border:solid 2px red;*/
   background-color: #f0f0f0;
   width:450px;
-  
 }
+
+/*.errors-message:empty {*/
+/*  display:none;*/
+  
+/*}*/
 
 .errors-message h2 {
   font-size: 12px;
