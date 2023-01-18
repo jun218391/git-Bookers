@@ -19,3 +19,33 @@
   padding:0;
   box-sizing: border-box;
 }
+
+body {
+  margin: 30px;
+}
+
+input {
+  display: flex;
+}
+
+.errors-message{
+  border:solid 2px red;
+  background-color: #f0f0f0;
+  width:450px;
+  padding: 20px;
+}
+
+.errors-message h2 {
+  font-size: 12px;
+  background-color: red;
+  color: white;
+}
+
+/*div.field_with_errors {*/
+/*  border:solid 2px red;*/
+/*  width: 100%;*/
+/*}*/
+
+.notice {
+  color: green;
+}
